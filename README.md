@@ -13,4 +13,13 @@
 
 ### スマートフォン
 
-### アプリケーション/ソフトウェア
+## アプリケーション/ソフトウェア
+### タスク管理
+- Github organizationアカウント "Toypocket"
+- Google Calender
+
+### ファイル管理
+- Google Drive
+
+### チャットアプリ
+- Slack
