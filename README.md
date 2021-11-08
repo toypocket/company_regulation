@@ -15,7 +15,7 @@
 
 ## Toypocket標準アプリケーション/ソフトウェア
 ### タスク管理
-- Github organizationアカウント "Toypocket"
+- [**Github** organizationアカウント "Toypocket"](https://github.com/toypocket)
 - Google Calender
 
 ### ファイル管理
