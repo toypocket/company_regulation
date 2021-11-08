@@ -13,7 +13,7 @@
 
 ### スマートフォン
 
-## アプリケーション/ソフトウェア
+## Toypocket標準アプリケーション/ソフトウェア
 ### タスク管理
 - Github organizationアカウント "Toypocket"
 - Google Calender
