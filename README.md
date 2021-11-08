@@ -16,10 +16,10 @@
 ## Toypocket標準アプリケーション/ソフトウェア
 ### タスク管理
 - [**Github** Toypocket Organizationアカウント](https://github.com/toypocket)
-- Google Calender : (poket.officials@gmail.com)管理下のカレンダーの編集権限をもらうこと。
+- **Google Calender** : (poket.officials@gmail.com)管理下のカレンダーの編集権限をもらうこと。
 
 ### ファイル管理
-- Google Drive : 「トイポケ共有ドライブ」に参加すること。
+- **Google Drive** : 「トイポケ共有ドライブ」に参加すること。
 
 ### チャットアプリ
-- Slack : Toypocket専用ワークスペースに招待するのでサインインすること。
+- **Slack** : Toypocket専用ワークスペースに招待するのでサインインすること。
