@@ -17,6 +17,7 @@
 ### タスク管理
 - [**Github** Toypocket Organizationアカウント](https://github.com/toypocket)
 - **Google Calender** : Toypocket Gmailアカウント管理下のカレンダーの編集権限をもらうこと。
+- Trello
 
 ### ファイル・情報管理
 - **Google Drive** : 「トイポケ共有ドライブ」に参加すること。
